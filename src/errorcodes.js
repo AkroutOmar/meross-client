@@ -21,8 +21,6 @@ const errorMessages = {
     5022: 'Infrared record invalid'
 }
 
-module.exports = {
-    getErrorMessage(code) {
-        return errorMessages[code] || 'Unknown error';
-    }
+export const getErrorMessage = (code) => {
+    return errorMessages[code] || 'Unknown error';
 }

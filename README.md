@@ -1,4 +1,4 @@
-# meross-cloud
+# meross-client
 
 
 [![NPM version](http://img.shields.io/npm/v/meross-cloud.svg)](https://www.npmjs.com/package/meross-cloud)
